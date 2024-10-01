@@ -1,0 +1,82 @@
+[
+    {
+        "EmployeeID": 101,
+        "Name": "Alice",
+        "Department": "Engineering",
+        "Age": 29,
+        "Salary": 99000,
+        "JoinDate": "2020-01-15"
+    },
+    {
+        "EmployeeID": 102,
+        "Name": "Bob",
+        "Department": "Sales",
+        "Age": 34,
+        "Salary": 65000,
+        "JoinDate": "2018-03-22"
+    },
+    {
+        "EmployeeID": 103,
+        "Name": "Charlie",
+        "Department": "Marketing",
+        "Age": 28,
+        "Salary": 70000,
+        "JoinDate": "2019-11-10"
+    },
+    {
+        "EmployeeID": 104,
+        "Name": "David",
+        "Department": "Engineering",
+        "Age": 42,
+        "Salary": 95000,
+        "JoinDate": "2015-06-01"
+    },
+    {
+        "EmployeeID": 105,
+        "Name": "Eva",
+        "Department": "Sales",
+        "Age": 30,
+        "Salary": 62000,
+        "JoinDate": "2021-09-15"
+    },
+    {
+        "EmployeeID": 106,
+        "Name": "Frank",
+        "Department": "HR",
+        "Age": 45,
+        "Salary": 98000,
+        "JoinDate": "2012-04-17"
+    },
+    {
+        "EmployeeID": 107,
+        "Name": "Grace",
+        "Department": "Engineering",
+        "Age": 26,
+        "Salary": 82000,
+        "JoinDate": "2022-05-12"
+    },
+    {
+        "EmployeeID": 108,
+        "Name": "Hannah",
+        "Department": "HR",
+        "Age": 39,
+        "Salary": 59000,
+        "JoinDate": "2017-12-05"
+    },
+    {
+        "EmployeeID": 109,
+        "Name": "Ian",
+        "Department": "Marketing",
+        "Age": 35,
+        "Salary": 73000,
+        "JoinDate": "2021-08-19"
+    },
+    {
+        "EmployeeID": 110,
+        "Name": "Jack",
+        "Department": "Sales",
+        "Age": 31,
+        "Salary": 67000,
+        "JoinDate": "2020-02-28"
+    }
+]

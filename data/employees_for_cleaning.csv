@@ -1,0 +1,15 @@
+EmployeeID,Name,Department,Age,Salary,JoinDate
+101,Alice,Engineering,29,80000,2020-01-15
+102,Bob,,34,65000,2018-03-22
+103,Charlie,Marketing,,70000,2019-11-10
+104,,Engineering,42,95000,2015-06-01
+105,Eva,Sales,30,,2021-09-15
+106,Frank,HR,45,55000,
+107,Grace,Engineering,26,82000,2022-05-12
+108,Hannah,HR,39,59000,2017-12-05
+109,Ian,Marketing,35,73000,INVALID_DATE
+110,Jack,Sales,31,67000,2020-02-28
+111,Kate,Engineering,thirty five,81000,2019-04-25
+112,Liam,Sales,28,68000,2016-07-11
+113,Mia,Marketing,30,72000,2020-11-02
+114,Nora,Engineering,33,83000,2017-03-12
